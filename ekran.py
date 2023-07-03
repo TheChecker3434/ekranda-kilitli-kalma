@@ -19,7 +19,7 @@ window.attributes("-fullscreen",True)
 entry = Entry(window, font = 1)
 entry.place(width = 150, height=50, x = width/2-75,y=height/2-25)
 
-label0 = Label(window,text="Locker by  Berkan", font=1)
+label0 = Label(window,text="Locker by  root and TheChecker", font=1)
 label0.grid(row = 0, column = 0)
 label1 = Label(window, text="Enter password and press Ctrl C", font ="Arial 20")
 label1.place(x=width/2-75-130, y=height/2-25-100)
